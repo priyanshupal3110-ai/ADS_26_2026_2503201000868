@@ -1,0 +1,9 @@
+# Ignore VS Code specific files
+.vscode/
+
+# Ignore compiled C++ files
+*.exe
+*.o
+*.out
+*.json
+# Add any other files or folders you want to ignore
